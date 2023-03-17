@@ -20,12 +20,12 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/first-steps.md" %}
+[first-steps.md](overview/first-steps.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/quiz-sql-injection.md" %}
+[quiz-sql-injection.md](overview/quiz-sql-injection.md)
 {% endcontent-ref %}
 
 ## Get Started

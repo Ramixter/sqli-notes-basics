@@ -4,8 +4,8 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [First Steps](overview/first-steps.md)
+* [QUIZ: SQL INJECTION](overview/quiz-sql-injection.md)
 
 ## Product Guides
 
