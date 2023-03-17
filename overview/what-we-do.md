@@ -1,11 +1,15 @@
 # 💡 What we do
 
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
-{% endhint %}
+This is the vulnerable application we will be trying to hack with a <mark style="color:red;">**SQL INJECTION**</mark> attack.
 
-## Video overview
+<figure><img src="../.gitbook/assets/Window-000132.png" alt=""><figcaption></figcaption></figure>
 
-Got 2 minutes? Check out a video overview of our product:
+Here are the application logs. Watch what happens here when you interact with the vulnerable application.
 
-{% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" %}
+<figure><img src="../.gitbook/assets/Window-000135.png" alt=""><figcaption></figcaption></figure>
+
+Go ahead and try logging in with the following credentials:\
+&#x20;\- Email: `user@email.com`\
+&#x20;\- Password: `password`
+
+``
